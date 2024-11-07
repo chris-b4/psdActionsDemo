@@ -1,1 +1,1 @@
-File to trigger GitHub Actions
+Text file to trigger GitHub Actions.
